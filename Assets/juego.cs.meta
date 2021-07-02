@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 0215b5339741f534b9814280081c7723
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cubo: {instanceID: 0}
+  - lamparaOn: {instanceID: 0}
+  - lamparaOff: {instanceID: 0}
+  - plastico: {instanceID: 0}
+  - transparente: {instanceID: 0}
+  - cuboPapelera: {instanceID: 0}
+  - esfera: {instanceID: 0}
+  - generador: {instanceID: 0}
+  - and: {instanceID: 0}
+  - or: {instanceID: 0}
+  - xor: {instanceID: 0}
+  - not: {instanceID: 0}
+  - tipoD: {instanceID: 0}
+  - relojO: {instanceID: 0}
+  - musica1: {fileID: 8300000, guid: 3d81ed0aa75df954cb2ca7d46760bb08, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
